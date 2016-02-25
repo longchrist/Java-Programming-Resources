@@ -8,7 +8,7 @@ Komponen / Core / IDE :<br/>
 3. <a href="https://eclipse.org/downloads/" target="_blank">Eclipse IDE Repository</a><br/>
 
 # Basic - Code Tutorial & Components
-1. <a href="" target="_blank">GUI (Graphical User Interface)</a><br/>
+1. GUI (Graphical User Interface)<br/>
 Ubah tampilan GUI default java "nimbus" ke tampilan "windows" :)
 ```
 try {
@@ -20,7 +20,7 @@ try {
     }
 }
 ```
-2. <a href="" target="_blank">JDBC (Java - DB - Connect)</a><br/>
+2. JDBC (Java - DB - Connect)<br/>
 
 # Basic - Framework
 1. <a href="" target="_blank">Java Hibernate</a><br/>
