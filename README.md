@@ -29,6 +29,6 @@ try {
 1. <a href="https://jena.apache.org/documentation/ontology/" target="_blank">Ontology</a><br/>
 2. <a href="https://jena.apache.org/documentation/rdf/index.html" target="_blank">RDF (Resource Description Framework)</a><br/>
 3. <a href="https://jena.apache.org/documentation/query/index.html" target="_blank">ARQ - SPARQL RDF Query</a><br/>
-4. <a href="https://jena.apache.org/download/" target="_blank"><strong>Apache Jena Download</strong></a><br/>
+4. <a href="https://jena.apache.org/download/" target="_blank">Apache Jena Download</a><br/>
 5. 
 
