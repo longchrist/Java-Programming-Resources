@@ -1,7 +1,7 @@
 # Java Programming Resources
 All useful resource links for Java programming
 
-<h3>Core - Komponen Desktop Programming</h3>
+<h3>IDE - Integrated Development Environment </h3>
 IDE for Java :<br/>
 1. <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html" target="_blank">Java Development Kit (JDK) /  Java Runtime Environtment (JRE)</a><br/>
 2. <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-142931.html" target="_blank">Netbeans 8 IDE bundles</a><br/>
