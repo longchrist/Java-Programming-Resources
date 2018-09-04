@@ -41,4 +41,19 @@ try {
 2. <a href="https://spring.io/guides/gs/gradle/" target="_blank">Spring with Gradle</a><br/>
 3. <a href="https://spring.io/guides/gs/spring-boot/" target="_blank">Spring Boot</a><br/>
 4. <a href="https://spring.io/guides/gs/consuming-rest-jquery/" target="_blank">Consuming Rest with JQuery</a><br/>
+
+Simple example for consuming restful service by using JQuery
+```Javascript
+function addActivitiesFunction(){
+    \$.ajax({
+        url		: 'http://172.25.2.149:8080/activities/addactivities',
+        type		: 'POST',
+        contentType	: 'application/x-www-form-urlencoded',
+        data		: getDataAddMasterActivities(),
+        success		: function(response) {addMasterActivitiesResult(response)},
+        error		: function(e) {onError(e)}
+    });
+}
+```
+        
 5. <a href="https://spring.io/guides/gs/rest-service-cors/" target="_blank">Defining CORS</a><br/>
