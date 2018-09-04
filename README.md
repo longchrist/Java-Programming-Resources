@@ -26,8 +26,8 @@ try {
 
 <h3>Java Framework</h3>
 1. <a href="" target="_blank">Java Hibernate</a><br/>
-2. Spring <br/>
-3.
+2. <a href="https://spring.io/" target="_blank">Spring</a><br/>
+3. 
 
 <h3>Advanced - Java and the Semantic Web Components (web / desktop)</h3>
 1. <a href="https://jena.apache.org/documentation/ontology/" target="_blank">Ontology</a><br/>
@@ -36,3 +36,9 @@ try {
 4. <a href="https://jena.apache.org/download/" target="_blank">Apache Jena Download</a><br/>
 5. 
 
+<h3>Advanced - <a href="https://spring.io/projects/spring-framework" target="_blank">Java Spring Framework</a></h3>
+1. <a href="https://spring.io/guides/gs/rest-service/" target="_blank">Spring Web Services</a><br/>
+2. <a href="https://spring.io/guides/gs/gradle/" target="_blank">Spring with Gradle</a><br/>
+3. <a href="https://spring.io/guides/gs/spring-boot/" target="_blank">Spring Boot</a><br/>
+4. <a href="https://spring.io/guides/gs/consuming-rest-jquery/" target="_blank">Consuming Rest with JQuery</a><br/>
+5. <a href="https://spring.io/guides/gs/rest-service-cors/" target="_blank">Defining CORS</a><br/>
