@@ -1,5 +1,5 @@
 # Java Programming Resources
-All useful resource links for Java programming
+All useful resource links for Java programming From Java Desktop Basic to Java Enterprise Edition
 
 <h3>IDE - Integrated Development Environment </h3>
 IDE for Java :<br/>
